@@ -1,7 +1,7 @@
 public class MagicBuilder {
 
     public static int getLucky() {
-        return 7;
+        return 6;
     }
 
 }
